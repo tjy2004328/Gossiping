@@ -50,5 +50,4 @@ Node 2: Updated totalSum = 30.00, updated count = 2
 Final average: 30.00  
 需求
 Java开发工具包（JDK）版本8或以上。
-贡献
-欢迎对增强Gossip协议模拟或添加额外功能进行贡献！请提出问题或提交拉取请求。
+
